@@ -2,6 +2,8 @@
 
 A simple project for my Octoprint installation. This files permit to make a case for the "Hackable naked 7 port USB" ( http://www.modmypi.com/raspberry-pi/accessories/usb-hubs/hackable-naked-7-port-usb-hub-uk-5v-2.5a ).
 
+You can also get STL files on Thingiverse a this address : http://www.thingiverse.com/thing:879174
+
 # How it works
 1. Get front & bottom .stl files
 2. Print files
